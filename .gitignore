@@ -1,0 +1,7 @@
+# config
+.config.yaml
+
+# bin
+detect-server
+bin/
+
